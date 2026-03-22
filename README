@@ -1,3 +1,10 @@
-# Convert an HTML5 <audio> blob to an .ogg file
+# How
 
-Paste in console of audio blob location.
+Paste in console of audio page location.
+
+# audioblog2ogg.js
+Convert an HTML5 <audio> blob to an .ogg file for downloading
+
+# elements.envato.com.audio.fetch.js
+Fetch the correct .m4a file and create a download link
+
